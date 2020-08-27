@@ -1,0 +1,12 @@
+.card{
+    width: auto;
+    height: 100%;
+}
+.align-center{
+    /* margin-left: 25%; */
+    /* margin-right: 50%; */
+    text-align: center;
+}
+h2{
+    text-size-adjust: 150%;
+}
